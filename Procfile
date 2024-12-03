@@ -1,0 +1,1 @@
+web: java -jar target/lab-spring-desafio-claro-0.0.1-SNAPSHOT.jar
